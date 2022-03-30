@@ -12,7 +12,7 @@ Jogo criado para projeto final da disciplina de linguagem de programação II.
 ### :cloud: **Informações**
 O objetivo do jogo é não deixar o Fofinho (nuvem) cair. Enquanto isso, o jogador precisa completar algumas missões e se proteger dos inimigos.
 
-<a href="https://ibb.co/pZ539r5"><img src="https://i.ibb.co/ftLCPGL/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/VjPCWyh"><img src="https://i.ibb.co/HFkPDvM/image.png" alt="image" border="0"></a>
 
 <br>
 <br>
