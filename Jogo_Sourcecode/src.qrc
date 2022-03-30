@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/background.png</file>
+        <file>src/char/mag_d.png</file>
+        <file>src/char/mag_a.png</file>
+        <file>src/char/magpow.png</file>
+        <file>src/enemies/ghost/006.png</file>
+        <file>src/Laser.mp3</file>
+        <file>src/music_adv.mp3</file>
+        <file>src/enemies/slime/slime006.png</file>
+        <file>src/imagem.png</file>
+        <file>src/Minecraft.ttf</file>
+        <file>src/char/mag_s.png</file>
+        <file>src/char/mag_w.png</file>
+        <file>src/enemies/snail/snail009.png</file>
+        <file>src/cloud.png</file>
+        <file>src/enemies/rino/rino004.png</file>
+        <file>src/mainwin.png</file>
+    </qresource>
+</RCC>
