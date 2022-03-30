@@ -17,7 +17,7 @@ O objetivo do jogo é não deixar o Fofinho (nuvem) cair. Enquanto isso, o jogador
 <br>
 <br>
 
-### :squirrel: **Tecnologias utilizadas**
+### :space_invader: **Tecnologias utilizadas**
 As tecnologias utilizadas nesse projeto foram:
 - Linguagem C++
 - QT Creator
