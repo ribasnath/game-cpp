@@ -7,7 +7,6 @@
 Jogo criado para projeto final da disciplina de linguagem de programação II.
 
 <br>
-<br>
 
 ### :cloud: **Informações**
 O objetivo do jogo é não deixar o Fofinho (nuvem) cair. Enquanto isso, o jogador precisa completar algumas missões e se proteger dos inimigos.
@@ -15,14 +14,12 @@ O objetivo do jogo é não deixar o Fofinho (nuvem) cair. Enquanto isso, o jogador
 <a href="https://ibb.co/VjPCWyh"><img src="https://i.ibb.co/HFkPDvM/image.png" alt="image" border="0"></a>
 
 <br>
-<br>
 
 ### :space_invader: **Tecnologias utilizadas**
 As tecnologias utilizadas nesse projeto foram:
 - Linguagem C++
 - QT Creator
 
-<br>
 <br>
 
 ### :zap: **Observação**
